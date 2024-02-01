@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Jared 👋
+
+I am a Software Engineer with expertise in the node eco system.
+
+Some of my notable projects that I have been working on recently
+
+- 🧠 [knutjs](https://github.com/jlrickert/knutjs) - Knowledge utilitizes for managing a sharable second brain
+
+Sometimes you can find me lurking around with the alias of raviko.
+
+- 📺 [Twitch](https://www.twitch.tv/raviko)
 
 <!--
 **jlrickert/jlrickert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=jlrickert&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrickert&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
