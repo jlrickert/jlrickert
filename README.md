@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=jlrickert&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=jlrickert&show_icons=true&theme=react&rank_icon=github&card_width=475)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrickert&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlrickert&show_icons=true&theme=react&card_width=475)
