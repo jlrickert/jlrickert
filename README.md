@@ -1,10 +1,6 @@
 ### Hi there, I'm Jared 👋
 
-I am a Software Engineer with expertise in the node eco system.
-
-Some of my notable projects that I have been working on recently
-
-- 🧠 [knutjs](https://github.com/jlrickert/knutjs) - Knowledge utilitizes for managing a sharable second brain
+I am a Software Engineer.
 
 <!--
 **jlrickert/jlrickert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
